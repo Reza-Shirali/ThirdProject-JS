@@ -1,0 +1,49 @@
+@font-face {
+  font-family: "Mon-re";
+  src: url("../assets/fonts/Montserrat-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Mon-me";
+  src: url("../assets/fonts/Montserrat-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Mon-sb";
+  src: url("../assets/fonts/Montserrat-SemiBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Mon-bo";
+  src: url("../assets/fonts/Montserrat-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "pop-re";
+  src: url("../assets/fonts/Poppins-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "pop-me";
+  src: url("../assets/fonts/Poppins-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "pop-bo";
+  src: url("../assets/fonts/Poppins-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "pop-li";
+  src: url("../assets/fonts/Poppins-Light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "op-re";
+  src: url("../assets/fonts/OpenSans-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "op-li";
+  src: url("../assets/fonts/OpenSans-Light.ttf") format("truetype");
+}
+@font-face {
+  font-family: "op-me";
+  src: url("../assets/fonts/OpenSans-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "op-bo";
+  src: url("../assets/fonts/OpenSans-Bold.ttf") format("truetype");
+}
